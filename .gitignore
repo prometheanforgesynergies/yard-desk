@@ -1,0 +1,4 @@
+.env
+agent/agent-key.txt
+__pycache__/
+*.log
